@@ -1,2 +1,0 @@
-# UrbanUnbox
-e-commerce platform
